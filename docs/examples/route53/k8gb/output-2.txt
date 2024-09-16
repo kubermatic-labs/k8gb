@@ -1,0 +1,6398 @@
+{
+  "hostname": "frontend-podinfo-56478fb6b6-wgrgc",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "ap-south-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "8",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-8dcf6bcc-rnf9f",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "us-east-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "11",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "11",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "11",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-57c656bb85-lw2b2",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "eu-west-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "10",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-56478fb6b6-wgrgc",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "ap-south-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "8",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-56478fb6b6-wgrgc",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "ap-south-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "8",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-56478fb6b6-wgrgc",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "ap-south-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "8",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-56478fb6b6-wgrgc",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "ap-south-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-56478fb6b6-wgrgc",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "ap-south-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-56478fb6b6-wgrgc",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "ap-south-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
+{
+  "hostname": "frontend-podinfo-56478fb6b6-wgrgc",
+  "version": "5.1.1",
+  "revision": "",
+  "color": "#34577c",
+  "logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+  "message": "ap-south-1",
+  "goos": "linux",
+  "goarch": "amd64",
+  "runtime": "go1.15.6",
+  "num_goroutine": "9",
+  "num_cpu": "2"
+}
+URL Effective: http://weightroundrobin.test.mihirs.xyz/
