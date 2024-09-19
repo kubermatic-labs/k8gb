@@ -1,12 +1,14 @@
-apiVersion: k8gb.absa.oss/v1beta1
-kind: Gslb
+---
+apiVersion: networking.k8s.io/v1
+kind: Ingress
 metadata:
   name: test-gslb
   namespace: test-gslb
+  labels:
+    app: test-gslb
 spec:
-  ingress:
-    ingressClassName: nginx
-    rules:
+  ingressClassName: nginx
+  rules:
     - host: notfound.test.mihirs.xyz # This is the GSLB enabled host that clients would use
       http: # This section mirrors the same structure as that of an Ingress resource and will be used verbatim when creating the corresponding Ingress resource that will match the GSLB host
         paths:
@@ -24,9 +26,9 @@ spec:
           pathType: Prefix
           backend:
             service:
-              name: unhealthy-app # Gslb should reflect Unhealthy status
-              port:
-                name: http
+                name: unhealthy-app # Gslb should reflect Unhealthy status
+                port:
+                  name: http
     - host: roundrobin.test.mihirs.xyz
       http:
         paths:
@@ -34,9 +36,21 @@ spec:
           pathType: Prefix
           backend:
             service:
-              name: frontend-podinfo # Gslb should reflect Healthy status and create associated DNS records
-              port:
-                name: http
+                name: frontend-podinfo # Gslb should reflect Healthy status and create associated DNS records
+                port:
+                  name: http
+---
+apiVersion: k8gb.absa.oss/v1beta1
+kind: Gslb
+metadata:
+  name: test-gslb
+  namespace: test-gslb
+spec:
+  resourceRef:
+    apiVersion: networking.k8s.io/v1
+    kind: Ingress
+    matchLabels:
+      app: test-gslb
   strategy:
     type: roundRobin # Use a round robin load balancing strategy, when deciding which downstream clusters to route clients too
     splitBrainThresholdSeconds: 300 # Threshold after which external cluster is filtered out from delegated zone when it doesn't look alive
