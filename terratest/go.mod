@@ -1,6 +1,6 @@
 module k8gbterratest
 
-go 1.22.3
+go 1.24.0
 
 require (
 	github.com/AbsaOSS/gopkg v0.1.3
@@ -67,13 +67,13 @@ require (
 	github.com/texttheater/golang-levenshtein v1.0.1 // indirect
 	github.com/urfave/cli v1.22.2 // indirect
 	github.com/virtuald/go-ordered-json v0.0.0-20170621173500-b18e6e673d74 // indirect
-	golang.org/x/crypto v0.21.0 // indirect
-	golang.org/x/net v0.23.0 // indirect
+	golang.org/x/crypto v0.45.0 // indirect
+	golang.org/x/net v0.47.0 // indirect
 	golang.org/x/oauth2 v0.8.0 // indirect
-	golang.org/x/sync v0.4.0 // indirect
-	golang.org/x/sys v0.18.0 // indirect
-	golang.org/x/term v0.18.0 // indirect
-	golang.org/x/text v0.14.0 // indirect
+	golang.org/x/sync v0.18.0 // indirect
+	golang.org/x/sys v0.38.0 // indirect
+	golang.org/x/term v0.37.0 // indirect
+	golang.org/x/text v0.31.0 // indirect
 	golang.org/x/time v0.3.0 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
 	google.golang.org/protobuf v1.33.0 // indirect
@@ -152,8 +152,4 @@ replace (
 	golang.org/x/text v0.3.7 => golang.org/x/text v0.3.8
 )
 
-exclude (
-	github.com/Azure/go-autorest/autorest/adal v0.9.24
-	github.com/Azure/go-autorest/autorest/adal v0.9.24
-	github.com/Azure/go-autorest/autorest/adal v0.9.24
-)
+exclude github.com/Azure/go-autorest/autorest/adal v0.9.24
